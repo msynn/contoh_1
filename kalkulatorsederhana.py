@@ -17,3 +17,5 @@ elif operator == '+' :
     print("Hasil dari",a,'+',b,'=',penambahan)
 else:
     print("Maaf kamu salah memasukan operator bilangan")
+
+print("hello Kalian")
